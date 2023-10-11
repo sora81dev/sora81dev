@@ -11,5 +11,5 @@
 年度|チーム名|各種SNS
 -|-|-
 2021       | ちゃチャ茶 | 
-2022       | ST         |   [Twitter](https://twitter.com/ST_GifuRCJ)    [GitHub](https://github.com/ST_GifuRCJ)  
+2022       | ST         |   [Twitter](https://twitter.com/ST_GifuRCJ)    [GitHub](https://github.com/ST-GifuRCJ)  
 2023       | 珈琲牛乳|[Twitter](https://twitter.com/CoffeeMilk_RCJ) [GitHub](https://github.com/CoffeeMilk-RCJ)
