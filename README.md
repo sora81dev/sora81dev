@@ -1,3 +1,9 @@
+MarkDown
+[![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=sora81dev)](https://github.com/yamaccu/Github-Repo-ByteCounter)
+
+HTML
+<a href="https://github.com/yamaccu/Github-Repo-ByteCounter"><img alt="github bytes" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu"></a>
+
 # 歴
 
 日付|大会名|順位
@@ -7,6 +13,7 @@
 2023.11.26|大垣ノード大会出場|2位  
 2024.01.07|岐阜ブロック大会出場|4位  
 2024.03.23 - 2024.03.24|名古屋全国大会出場|32位  
+
 # 学歴
 2021.03.25 : 小学校過程終了  
 2021.04.10 : 中学校入学  
