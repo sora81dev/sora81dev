@@ -1,4 +1,9 @@
-[![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=sora81dev)](https://github.com/yamaccu/Github-Repo-ByteCounter)
+
+MarkDown
+[![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=sora81dev)](https://github.com/sora81dev)
+
+HTML
+<a href="https://github.com/sora81dev"><img alt="GitHub repoBytes" src="https://github-repo-bytecounter.vercel.app/api?username=sora81dev"></a>
 
 # 歴
 
