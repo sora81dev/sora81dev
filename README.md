@@ -1,5 +1,5 @@
 [![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=sora81dev)](https://github.com/yamaccu/Github-Repo-ByteCounter)
-
+<a href="https://github.com/yamaccu/Github-Repo-ByteCounter"><img alt="github bytes" src="https://github-repo-bytecounter.vercel.app/api?username=yamaccu"></a>
 # 歴
 
 日付|大会名|順位
