@@ -1,9 +1,4 @@
-
-MarkDown
-[![GitHub repoBytes](https://github-repo-bytecounter.vercel.app/api?username=sora81dev)](https://github.com/sora81dev)
-
-HTML
-<a href="https://github.com/sora81dev"><img alt="GitHub repoBytes" src="https://github-repo-bytecounter.vercel.app/api?username=sora81dev"></a>
+[![](https://github-readme-stats.vercel.app/api?username=sora81dev)](https://github.com/anuraghazra/github-readme-stats)
 
 # 歴
 
