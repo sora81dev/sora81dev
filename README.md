@@ -22,8 +22,8 @@
 
 年度|チーム名|各種SNS|Mail
 -|-|-|-
-2021       | ちゃチャ茶 |
-2022       | ST         |   [Twitter](https://twitter.com/ST_GifuRCJ)    [GitHub](https://github.com/ST-GifuRCJ)|  
-2023       | 珈琲牛乳|[Twitter](https://twitter.com/CoffeeMilk_RCJ) [GitHub](https://github.com/CoffeeMilk-RCJ)|coffeemilk.rcjj@gmail.com
-2024       | (おやすみ)|
-2025       | 未定|
+2021 | ちゃチャ茶 |
+2022 | ST |  [Twitter](https://twitter.com/ST_GifuRCJ) [GitHub](https://github.com/ST-GifuRCJ) |
+2023 | 珈琲牛乳 | [Twitter](https://twitter.com/CoffeeMilk_RCJ) [GitHub](https://github.com/CoffeeMilk-RCJ) | coffeemilk.rcjj@gmail.com
+2024 | (おやすみ) |
+2025 | 未定 |
