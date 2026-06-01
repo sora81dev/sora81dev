@@ -1,15 +1,15 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sora81dev)](https://git.io/streak-stats)
+
 [![](https://github-readme-stats.sora81.dev/api?username=sora81dev&count_private=true&show_icons=true)]() 
 
 [![](https://github-readme-stats.sora81.dev/api/top-langs/?username=sora81dev&layout=compact)]()
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sora81dev)](https://git.io/streak-stats)
 
 # 歴
 
 日付|大会名|順位
 -|-|-
 2022.04.23|けいはんな大会出場|41位  
-2023.01.09|岐阜ブロック大会出場|13位  
+2023.01.09|岐阜ブロック大会出場|13位
 2023.11.26|大垣ノード大会出場|2位  
 2024.01.07|岐阜ブロック大会出場|4位  
 2024.03.23 - 2024.03.24|名古屋全国大会出場|32位  
