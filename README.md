@@ -4,6 +4,19 @@
 
 [![](https://github-readme-stats.sora81.dev/api/top-langs/?username=sora81dev&layout=compact)]()
 
+# Languages
+## Favorite
+[![Language - Favorite](https://skillicons.dev/icons?i=js,ts,nix,rust,react)](https://skillicons.dev)
+
+## Can use
+[![Language - Can use](https://skillicons.dev/icons?i=js,ts,html,c,tailwind,react,vite,py)](https://skillicons.dev)
+
+## Learning
+[![Language - Learning](https://skillicons.dev/icons?i=rust,p5js)](https://skillicons.dev)
+
+# Skills / Tools
+[![Skills](https://skillicons.dev/icons?i=neovim,ai,premiere)](https://skillicons.dev)
+
 # 歴
 
 日付|大会名|順位
