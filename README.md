@@ -12,7 +12,7 @@
 [![Language - Can use](https://skillicons.dev/icons?i=js,ts,html,c,tailwind,react,vite,py)](https://skillicons.dev)
 
 ## Learning
-[![Language - Learning](https://skillicons.dev/icons?i=rust,p5js)](https://skillicons.dev)
+[![Language - Learning](https://skillicons.dev/icons?i=rust,p5js,nix)](https://skillicons.dev)
 
 # Skills / Tools
 [![Skills](https://skillicons.dev/icons?i=neovim,ai,premiere)](https://skillicons.dev)
