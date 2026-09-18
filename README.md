@@ -1,3 +1,5 @@
+![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/sora81dev?theme=light&streak=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sora81dev)](https://git.io/streak-stats)
 
 [![](https://github-readme-stats.sora81.dev/api?username=sora81dev&count_private=true&show_icons=true)]() 
