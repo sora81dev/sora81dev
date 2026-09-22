@@ -8,10 +8,10 @@
 
 # Languages
 ## Favorite
-[![Language - Favorite](https://skillicons.dev/icons?i=js,ts,nix,rust,react)](https://skillicons.dev)
+[![Language - Favorite](https://skillicons.dev/icons?i=ts,nix,rust,react,astro)](https://skillicons.dev)
 
 ## Can use
-[![Language - Can use](https://skillicons.dev/icons?i=js,ts,html,c,tailwind,react,vite,py)](https://skillicons.dev)
+[![Language - Can use](https://skillicons.dev/icons?i=js,ts,html,c,tailwind,react,vite,py,astro)](https://skillicons.dev)
 
 ## Learning
 [![Language - Learning](https://skillicons.dev/icons?i=rust,p5js,nix)](https://skillicons.dev)
