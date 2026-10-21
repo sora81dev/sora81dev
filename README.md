@@ -1,3 +1,8 @@
+# Hi there! 👋
+I'm 17 y-o Student Full Stack Engineer!
+
+MCU Dev / Web Dev / Web Design
+
 ![Developer Score](https://github-stats-eta-two.vercel.app/api/stats/sora81dev?theme=light&streak=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=sora81dev)](https://git.io/streak-stats)
